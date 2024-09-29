@@ -1,6 +1,6 @@
 # Decision Tree Classification and Ensemble Methods: Practical Assignment
 
-This repository contains the solution for a practical assignment aimed at constructing and evaluating classifiers using **Decision Tree** classification and its ensemble variants: **Bagging** and **AdaBoost**. The performance of these classifiers is evaluated and compared on two datasets, and additional evaluation is conducted across 10 datasets for comprehensive comparison.
+This assignment is aimed at constructing and evaluating classifiers using **Decision Tree** classification and its ensemble variants: **Bagging** and **AdaBoost**. The performance of these classifiers is evaluated and compared on two datasets, and additional evaluation is conducted across 10 datasets for comprehensive comparison.
 
 ---
 
